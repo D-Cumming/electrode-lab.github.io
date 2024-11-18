@@ -3,8 +3,7 @@ title: Electrode Innovation Lab
 name: Electrode Innovation Lab
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Neuroethics + Decision Neuroscience. Research group headed by Winston Chiong, MD PhD in the 
-  University of California, San Francisco Weill Institute for Neurosciences, Memory and Aging Center.
+  Somthing about battery electrodes
 baseurl: "https://github.com/D-Cumming/electrode-lab.github.io" # the subpath of your site, e.g. /blog/
 url: ""
 last_updated: # leave blank if you don't want to display last updated
@@ -14,8 +13,8 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # News
 # -----------------------------------------------------------------------------
-blog_name: Decision Lab @ UCSF
-blog_description: neuroethics + decision neuroscience
+blog_name: Electrode Innovation Lab
+blog_description: New ways to build electrodes
 
 # Pagination
 paginate: 6
