@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: Decision Lab @ UCSF
-description: neuroethics + decision neuroscience
+title: Electrode Innovation Group
+description: New ways to make electrodes
 
 profile: 
   align: right
